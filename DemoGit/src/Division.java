@@ -1,6 +1,6 @@
-public class Resta {
-    public static int resta(int op1, int op2) {
+public class Division {
+    public static int dividir(int op1, int op2) {
 
-        return op1 - op2;
+        return op1 / op2;
     }
 }
