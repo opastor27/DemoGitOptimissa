@@ -3,7 +3,7 @@ public class Calculadora {
 
         Suma.suma(4,+3);
         Resta.resta(5,3);
-        Multiplicacion.multiplicar(8,6);
-
+	Multiplicacion.multiplicar(8,6);
+	Division.dividir(29,5);
     }
 }
